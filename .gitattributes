@@ -1,2 +1,3 @@
 static/* linguist-vendored
-staticfiles/* linguist-vendored
+*.html, .scss linguist-vendored
+*.py linguist-vendored=false
